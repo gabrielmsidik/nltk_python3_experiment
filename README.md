@@ -1,4 +1,13 @@
 # word_vectors_game_of_thrones-LIVE
+This test code is a small tweak from Siraj Raval's Live demo of word vectors.
+Changes were made to make the code run on Python 3 and gensim 3.
+
+Original source: https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE
+Youtube video: https://www.youtube.com/watch?v=pY9EwZ02sXU
+
+## BELOW IS THE ORIGINAL README
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 This is the code for the "How to Make Word Vectors from Game of Thrones (LIVE) " Siraj Raval on Youtube
 
 ##Overview
